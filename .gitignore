@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Environment variables
 .env
 backend/.env
@@ -25,3 +26,8 @@ Thumbs.db
 # IDE files
 .vscode/
 .idea/
+=======
+"backend/.env" 
+"frontend/.env" 
+"admin/.env"   
+>>>>>>> 02746a3ff152b5d05c80c14aef4e5351b91f148f
