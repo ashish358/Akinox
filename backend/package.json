@@ -4,14 +4,9 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-<<<<<<< HEAD
     "start": "nodemon server.js",
     "server": "nodemon sever.js",
     "dev": "nodemon server.js"
-=======
-    "start": "node server.js",
-    "server": "nodemon sever.js"
->>>>>>> 02746a3ff152b5d05c80c14aef4e5351b91f148f
   },
   "author": "",
   "license": "ISC",
